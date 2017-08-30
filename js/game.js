@@ -162,8 +162,6 @@ window.onload = e =>{
   canvas.width = innerWidth;
   canvas.height = innerHeight - 10;
 
-
-
   const startTime = e =>{
     timer = setInterval(e =>{
       seconds++;
@@ -191,6 +189,7 @@ window.onload = e =>{
   }
   let run;
   const start = e =>{
+    document.body.style.backgroundColor = '#9a9a9a';
     run = setInterval(e =>{
       window.requestAnimationFrame(draw);
     }, 100);
@@ -212,6 +211,7 @@ window.onload = e =>{
 
   let player = 0;
   let pos = 0;
+
 
   //draw element
   const draw = e =>{
