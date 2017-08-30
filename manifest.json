@@ -24,8 +24,8 @@
   ],
   "background_color": "#673AB7",
   "theme_color": "#9933CC",
-  "display": "standalone",
-  "orientation": "portrait",
+  "display": "fullscreen",
+  "orientation": "landscape-primary",
   "related_applications": [
     {
     "platform": "play",
