@@ -6,11 +6,10 @@
 html,body{
 	margin:0;
 	padding:0;
-  background-color: #263238;
 }
 body{
-	background-color:#f1f1f1;
   text-align:center;
+  background-color: #000;
 }
 canvas{
   cursor:pointer;
