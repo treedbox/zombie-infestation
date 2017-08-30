@@ -1,5 +1,5 @@
 //cache version
-var cacheName = 'v1';
+var cacheName = 'v2';
 //cache files
 var cacheFiles = [
 	'./',
@@ -38,7 +38,6 @@ var cacheFiles = [
 	'./images/char28.svg',
 	'./images/joystic.svg',
 	'./images/treedbox-presents1.svg',
-	'./images/zombie-infestation.svg',
 	'./icon/treedbox.png',
 	'./icon/treedbox-ani.svg',
 	'./icon/zombie-infestation-1000.png',
@@ -49,7 +48,6 @@ var cacheFiles = [
 	'./audio/girl02.ogg',
 	'./audio/girl03.ogg',
 	'./audio/joni01.ogg',
-	'./audio/joni02.ogg',
 	'./audio/marko01.ogg',
 	'./audio/marko02.ogg',
 	'./audio/marko03.ogg',
