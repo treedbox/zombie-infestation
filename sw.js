@@ -1,5 +1,5 @@
 //cache version
-var cacheName = 'v3';
+var cacheName = 'v4';
 //cache files
 var cacheFiles = [
 	'./',
