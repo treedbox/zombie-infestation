@@ -22,7 +22,7 @@
       "density": 4.0
     }
   ],
-  "background_color": "#FFDD00",
+  "background_color": "#673AB7",
   "theme_color": "#9933CC",
   "display": "standalone",
   "orientation": "portrait",
