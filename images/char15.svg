@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="326.54mm" height="81.6349mm" version="1.1"
+style="fill-rule:evenodd" viewBox="0 0 7948 1987">
+ <!-- @treedbox, treedbox.com -->
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil5 {fill:black}
+    .fil4 {fill:#663300}
+    .fil6 {fill:#9900CC}
+    .fil1 {fill:#996633}
+    .fil3 {fill:#FF0066}
+    .fil2 {fill:yellow}
+   ]]>
+  </style>
+ </defs>
+ <g>
+  <rect class="fil0" x="5961" width="1987" height="1987"/>
+  <rect class="fil1" x="6492" y="96" width="910" height="661"/>
+  <path class="fil2" d="M7345 556c62,43 99,134 196,0 67,-93 -15,-244 -87,-314 -33,-32 13,-98 -48,-135l-10 -11c3,-42 -246,-67 -453,-76l-4 0c-206,9 -436,34 -433,76l-10 11c-61,37 -34,103 -67,135 -73,70 -155,221 -88,314 98,134 134,43 197,0 -164,60 -54,-321 95,-325 94,-2 205,-6 307,13l3 0c101,-19 212,-15 306,-13 149,4 259,385 96,325z"/>
+  <path class="fil2" d="M6437 517c93,260 1011,245 1011,-55 0,-88 -67,-244 -174,-253 -5,-46 -724,-102 -778,33 -36,93 -71,158 -59,275z"/>
+  <rect class="fil0" x="3974" width="1987" height="1987"/>
+  <path class="fil2" d="M4467 517c92,260 1011,245 1011,-55 0,-88 -67,-244 -174,-253 -5,-46 -724,-102 -778,33 -37,93 -71,158 -59,275z"/>
+  <rect class="fil0" width="1987" height="1987"/>
+  <rect class="fil1" x="4707" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="5033" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(0.865432 -0.501027 0.501026 0.865432 5327.24 1087.04)" width="241" height="351"/>
+  <rect class="fil3" transform="matrix(0.831975 -0.481658 0.481658 0.831975 5206.38 878.281)" width="250" height="250"/>
+  <rect class="fil1" x="4504" y="96" width="910" height="661"/>
+  <rect class="fil4" x="5030" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil4" x="4832" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil3" x="4504" y="758" width="910" height="661"/>
+  <polygon class="fil5" points="4818,718 4912,583 5102,583 5102,718 "/>
+  <rect class="fil3" transform="matrix(0.831879 0.481824 -0.481824 0.831879 4503.98 757.689)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(0.865332 0.5012 -0.5012 0.865331 4383.08 966.429)" width="241" height="351"/>
+  <rect class="fil6" x="4504" y="1419" width="910" height="175"/>
+  <rect class="fil1" x="6694" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="7020" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(0.865432 0.501027 -0.501026 0.865432 7490 409.786)" width="241" height="351"/>
+  <rect class="fil3" transform="matrix(0.831975 0.481658 0.481658 -0.831975 7193.44 922.027)" width="250" height="250"/>
+  <rect class="fil3" x="6492" y="758" width="910" height="661"/>
+  <rect class="fil3" transform="matrix(0.831879 -0.481824 -0.481824 -0.831879 6491.05 1042.65)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(0.865332 -0.5012 0.5012 0.865331 6194.39 530.466)" width="241" height="351"/>
+  <rect class="fil6" x="6492" y="1419" width="910" height="175"/>
+  <rect class="fil1" x="733" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="1059" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(-0.00118645 0.999999 -0.999999 -0.00118564 1890.71 758.392)" width="241" height="351"/>
+  <rect class="fil3" transform="matrix(-0.00114059 0.961341 0.961341 0.00114059 1298.81 757.686)" width="250" height="250"/>
+  <rect class="fil1" x="530" y="96" width="910" height="661"/>
+  <rect class="fil4" x="1256" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil4" x="1058" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil3" x="530" y="758" width="910" height="661"/>
+  <polygon class="fil5" points="972,718 1066,583 1256,583 1256,718 "/>
+  <rect class="fil3" transform="matrix(0.2501 -0.928239 0.928239 0.2501 1007.16 1096.18)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(0.260158 -0.965566 0.965566 0.260158 1240.08 1158.93)" width="241" height="351"/>
+  <rect class="fil6" x="530" y="1419" width="910" height="175"/>
+  <path class="fil2" d="M1445 556c62,43 98,134 196,0 67,-93 -15,-244 -87,-314 -34,-32 -42,-98 -103,-135l-10 -11c6,-86 -824,-101 -874,-48 -25,26 -28,8 -37,48 -51,23 -108,200 -108,258 0,129 -36,215 74,296 1,1 36,28 36,28 136,0 248,21 354,-85 69,-69 105,-254 11,-118 -38,55 -175,12 -85,-108 112,-149 357,-140 537,-136 149,4 259,385 96,325z"/>
+  <path class="fil2" d="M5353 556c63,43 99,134 196,0 68,-93 -14,-244 -87,-314 -33,-32 14,-98 -47,-135l-10 -11c3,-42 -247,-67 -453,-76l-4 0c-207,9 -437,34 -433,76l-11 11c-61,37 -34,103 -67,135 -72,70 -155,221 -87,314 97,134 134,43 196,0 -163,60 -53,-321 96,-325 93,-2 205,-6 306,13l3 0c101,-19 213,-15 307,-13 149,4 259,385 95,325z"/>
+  <rect class="fil0" x="1987" width="1987" height="1987"/>
+  <rect class="fil1" x="3062" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="2736" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(0.00118645 0.999999 0.999999 -0.00118564 2083.43 758.392)" width="241" height="351"/>
+  <rect class="fil3" transform="matrix(0.00114059 0.961341 -0.961341 0.00114059 2675.32 757.686)" width="250" height="250"/>
+  <rect class="fil1" x="2533" y="96" width="910" height="661"/>
+  <rect class="fil4" x="2661" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil4" x="2859" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil3" x="2533" y="758" width="910" height="661"/>
+  <polygon class="fil5" points="3002,718 2908,583 2718,583 2718,718 "/>
+  <rect class="fil3" transform="matrix(-0.2501 -0.928239 -0.928239 0.2501 2966.98 1096.18)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(-0.260158 -0.965566 -0.965566 0.260158 2734.06 1158.93)" width="241" height="351"/>
+  <rect class="fil6" x="2533" y="1419" width="910" height="175"/>
+  <path class="fil2" d="M2530 556c-63,43 -99,134 -196,0 -68,-93 15,-244 87,-314 33,-32 41,-98 102,-135l10 -11c-6,-86 825,-101 875,-48 24,26 27,8 36,48 51,23 109,200 109,258 0,129 35,215 -75,296 -1,1 -36,28 -36,28 -135,0 -248,21 -354,-85 -69,-69 -105,-254 -11,-118 38,55 175,12 85,-108 -112,-149 -357,-140 -537,-136 -148,4 -259,385 -95,325z"/>
+ </g>
+</svg>

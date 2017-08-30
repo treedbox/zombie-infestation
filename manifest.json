@@ -1,0 +1,35 @@
+{
+  "name": "Zombie Infestation",
+  "short_name": "Zombie Infestation",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "icon/zombie-infestation-1000.png",
+      "sizes": "1000x1000",
+      "type": "image/png",
+      "density": 4.0
+    },
+    {
+      "src": "icon/zombie-infestation-500.png",
+      "sizes": "500x500",
+      "type": "image/png",
+      "density": 4.0
+    },
+    {
+      "src": "icon/zombie-infestation.png",
+      "sizes": "450x450",
+      "type": "image/png",
+      "density": 4.0
+    }
+  ],
+  "background_color": "#FFDD00",
+  "theme_color": "#9933CC",
+  "display": "standalone",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+    "platform": "play",
+    "id": "com.treedbox.zombie.infestation"
+    }
+  ]
+}

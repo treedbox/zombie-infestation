@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="130.035mm" height="130.035mm" version="1.1"
+style="fill-rule:evenodd" viewBox="0 0 997 997">
+ <!-- @treedbox, treedbox.com -->
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str4 {stroke:#373435;stroke-width:38.3546}
+    .str0 {stroke:#333333;stroke-width:38.3546}
+    .str2 {stroke:#333333;stroke-width:38.3546}
+    .str1 {stroke:#333333;stroke-width:38.3546}
+    .str3 {stroke:#333333;stroke-width:38.3546}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:white}
+    .opacity{
+      opacity: .2;
+      /*animation:3s alternate infinite rotate;*/
+      transform: rotate(0deg);
+      transform-origin: center center;
+    }
+    @keyframes rotate{
+      from{
+        transform: rotate(0deg);
+      }
+      to{
+        transform: rotate(90deg);
+      }
+    }
+   ]]>
+  </style>
+ </defs>
+ <g class="opacity">
+  <rect class="fil0" width="997" height="997"/>
+  <path class="fil1" d="M19 341l959 0c11,0 19,9 19,19l0 277c0,11 -8,20 -19,20l-959 0c-10,0 -19,-9 -19,-20l0 -277c0,-10 9,-19 19,-19z"/>
+  <path class="fil1" d="M341 978l0 -959c0,-10 9,-19 19,-19l277 0c11,0 20,9 20,19l0 959c0,11 -9,19 -20,19l-277 0c-10,0 -19,-8 -19,-19z"/>
+  <g>
+   <polygon class="fil0 str0" points="499,118 529,170 559,223 499,223 438,223 469,170 "/>
+   <polygon id="1" class="fil2" points="499,118 529,170 559,223 499,223 438,223 469,170 "/>
+  </g>
+  <g>
+   <polygon class="fil0 str1" points="118,499 170,469 223,438 223,499 223,559 170,529 "/>
+   <polygon id="1" class="fil2" points="118,499 170,469 223,438 223,499 223,559 170,529 "/>
+  </g>
+  <g>
+   <polygon class="fil0 str2" points="499,879 469,827 438,775 499,775 559,775 529,827 "/>
+   <polygon id="1" class="fil2" points="499,879 469,827 438,775 499,775 559,775 529,827 "/>
+  </g>
+  <g>
+   <polygon class="fil0 str3" points="879,499 827,529 775,559 775,499 775,438 827,469 "/>
+   <polygon id="1" class="fil2" points="879,499 827,529 775,559 775,499 775,438 827,469 "/>
+  </g>
+  <g>
+   <path class="fil0 str4" d="M499 442c31,0 56,26 56,57 0,31 -25,56 -56,56 -31,0 -57,-25 -57,-56 0,-31 26,-57 57,-57z"/>
+   <path id="1" class="fil2" d="M499 442c31,0 56,26 56,57 0,31 -25,56 -56,56 -31,0 -57,-25 -57,-56 0,-31 26,-57 57,-57z"/>
+  </g>
+ </g>
+</svg>

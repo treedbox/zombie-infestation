@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="326.54mm" height="81.6349mm" version="1.1"
+style="fill-rule:evenodd" viewBox="0 0 7948 1987">
+ <!-- @treedbox, treedbox.com -->
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil3 {fill:black}
+    .fil2 {fill:aqua}
+    .fil4 {fill:#669933}
+    .fil1 {fill:#83501D}
+    .fil5 {fill:#FF6600}
+   ]]>
+  </style>
+ </defs>
+ <g>
+  <rect class="fil0" x="3974" width="1987" height="1987"/>
+  <rect class="fil0" x="5961" width="1987" height="1987"/>
+  <rect class="fil0" width="1987" height="1987"/>
+  <rect class="fil1" x="4707" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="5033" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(0.865432 -0.501027 0.501026 0.865432 5327.24 1087.04)" width="241" height="351"/>
+  <rect class="fil1" transform="matrix(0.831975 -0.481658 0.481658 0.831975 5206.38 878.281)" width="250" height="250"/>
+  <rect class="fil1" x="4504" y="96" width="910" height="661"/>
+  <rect class="fil2" x="5030" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil2" x="4832" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil1" x="4504" y="758" width="910" height="661"/>
+  <polygon class="fil3" points="4818,718 4912,583 5102,583 5102,718 "/>
+  <rect class="fil1" transform="matrix(0.831879 0.481824 -0.481824 0.831879 4503.98 757.689)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(0.865332 0.5012 -0.5012 0.865331 4383.08 966.429)" width="241" height="351"/>
+  <rect class="fil4" x="4504" y="1419" width="910" height="175"/>
+  <rect class="fil1" x="6694" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="7020" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(0.865432 0.501027 -0.501026 0.865432 7490 409.786)" width="241" height="351"/>
+  <rect class="fil1" transform="matrix(0.831975 0.481658 0.481658 -0.831975 7193.44 922.027)" width="250" height="250"/>
+  <rect class="fil1" x="6492" y="96" width="910" height="661"/>
+  <rect class="fil1" x="6492" y="758" width="910" height="661"/>
+  <rect class="fil1" transform="matrix(0.831879 -0.481824 -0.481824 -0.831879 6491.05 1042.65)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(0.865332 -0.5012 0.5012 0.865331 6194.39 530.466)" width="241" height="351"/>
+  <rect class="fil4" x="6492" y="1419" width="910" height="175"/>
+  <rect class="fil1" x="733" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="1059" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(-0.00118645 0.999999 -0.999999 -0.00118564 1890.71 758.392)" width="241" height="351"/>
+  <rect class="fil1" transform="matrix(-0.00114059 0.961341 0.961341 0.00114059 1298.81 757.686)" width="250" height="250"/>
+  <rect class="fil1" x="530" y="96" width="910" height="661"/>
+  <rect class="fil2" x="1256" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil2" x="1058" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil1" x="530" y="758" width="910" height="661"/>
+  <polygon class="fil3" points="972,718 1066,583 1256,583 1256,718 "/>
+  <rect class="fil1" transform="matrix(0.2501 -0.928239 0.928239 0.2501 1007.16 1096.18)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(0.260158 -0.965566 0.965566 0.260158 1240.08 1158.93)" width="241" height="351"/>
+  <rect class="fil4" x="530" y="1419" width="910" height="175"/>
+  <path class="fil5" d="M1441 427c0,-110 0,-220 0,-331 -92,0 -183,0 -274,0 166,64 249,180 274,331z"/>
+  <path class="fil5" d="M530 517c0,-140 0,-280 0,-421 -11,-19 -25,-43 -51,-96 356,0 713,0 1069,0 -174,46 -324,115 -433,226 -222,17 -286,-16 -293,-69 -39,166 -148,277 -292,360z"/>
+  <path class="fil5" d="M6947 758c-221,-198 -432,-399 -455,-662 303,0 606,0 910,0 -8,259 -212,466 -455,662z"/>
+  <path class="fil5" d="M4744 96c-80,0 -160,0 -240,0 -32,-32 -64,-64 -96,-96 370,0 740,0 1110,0 -32,32 -65,64 -97,96 -85,0 -171,0 -257,0 -140,71 -280,95 -420,0z"/>
+  <path class="fil5" d="M5421 96c-305,0 -611,0 -917,0 0,128 0,255 0,382 63,-120 112,-245 120,-382 223,0 446,0 669,0 8,125 52,233 122,331 2,-110 4,-220 6,-331z"/>
+  <path class="fil5" d="M6728 96c-80,0 -160,0 -240,0 -32,-32 -64,-64 -96,-96 370,0 740,0 1110,0 -33,32 -65,64 -97,96 -86,0 -171,0 -257,0 -140,71 -280,95 -420,0z"/>
+  <rect class="fil0" x="1987" width="1987" height="1987"/>
+  <rect class="fil1" x="3062" y="1419" width="180" height="472"/>
+  <rect class="fil1" x="2736" y="1419" width="180" height="472"/>
+  <rect class="fil1" transform="matrix(0.00118645 0.999999 0.999999 -0.00118564 2083.43 758.392)" width="241" height="351"/>
+  <rect class="fil1" transform="matrix(0.00114059 0.961341 -0.961341 0.00114059 2675.32 757.686)" width="250" height="250"/>
+  <rect class="fil1" x="2533" y="96" width="910" height="661"/>
+  <rect class="fil2" x="2661" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil2" x="2859" y="424" width="56.8923" height="99.5621"/>
+  <rect class="fil1" x="2533" y="758" width="910" height="661"/>
+  <polygon class="fil3" points="3002,718 2908,583 2718,583 2718,718 "/>
+  <rect class="fil1" transform="matrix(-0.2501 -0.928239 -0.928239 0.2501 2966.98 1096.18)" width="250" height="250"/>
+  <rect class="fil1" transform="matrix(-0.260158 -0.965566 -0.965566 0.260158 2734.06 1158.93)" width="241" height="351"/>
+  <rect class="fil4" x="2533" y="1419" width="910" height="175"/>
+  <path class="fil5" d="M2533 427c0,-110 0,-220 0,-331 92,0 183,0 274,0 -166,64 -248,180 -274,331z"/>
+  <path class="fil5" d="M3444 517c0,-140 0,-280 0,-421 11,-19 25,-43 51,-96 -356,0 -712,0 -1069,0 174,46 324,115 433,226 223,17 286,-16 293,-69 40,166 148,277 292,360z"/>
+ </g>
+</svg>

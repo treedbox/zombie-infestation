@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="326.54mm" height="81.6349mm" version="1.1"
+style="fill-rule:evenodd" viewBox="0 0 26747 6687">
+ <!-- @treedbox, treedbox.com -->
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil6 {fill:black}
+    .fil3 {fill:black}
+    .fil4 {fill:#996633}
+    .fil1 {fill:red}
+    .fil2 {fill:#FFCC99}
+    .fil5 {fill:yellow}
+   ]]>
+  </style>
+ </defs>
+ <g>
+  <rect class="fil0" width="6687" height="6687"/>
+  <rect class="fil0" x="13373" width="6687" height="6687"/>
+  <rect class="fil0" x="20060" width="6687" height="6687"/>
+  <rect class="fil1" x="15839" y="4775" width="604" height="1587"/>
+  <rect class="fil1" x="16936" y="4775" width="604" height="1587"/>
+  <rect class="fil2" transform="matrix(0.865432 -0.501027 0.501026 0.865432 17926.6 3657.98)" width="810" height="1180"/>
+  <rect class="fil3" transform="matrix(0.831975 -0.481658 0.481658 0.831975 17519.9 2955.49)" width="843" height="843"/>
+  <rect class="fil2" x="15158" y="324" width="3063" height="2225"/>
+  <rect class="fil4" x="16927" y="1425" width="191" height="335"/>
+  <rect class="fil4" x="16260" y="1425" width="191" height="335"/>
+  <rect class="fil5" x="15158" y="2550" width="3063" height="2225"/>
+  <polygon class="fil6" points="16211,2416 16529,1961 17168,1961 17168,2416 "/>
+  <rect class="fil3" transform="matrix(0.831879 0.481824 -0.481824 0.831879 15156.3 2549.69)" width="843" height="843"/>
+  <rect class="fil2" transform="matrix(0.865332 0.5012 -0.5012 0.865331 14749.4 3252.11)" width="810" height="1180"/>
+  <rect class="fil1" x="15158" y="4775" width="3063" height="590"/>
+  <rect class="fil1" x="22525" y="4775" width="604" height="1587"/>
+  <rect class="fil1" x="23623" y="4775" width="604" height="1587"/>
+  <rect class="fil2" transform="matrix(0.865432 0.501027 -0.501026 0.865432 25204.5 1378.96)" width="810" height="1180"/>
+  <rect class="fil3" transform="matrix(0.831975 0.481658 0.481658 -0.831975 24206.5 3102.7)" width="843" height="843"/>
+  <rect class="fil2" x="21845" y="324" width="3063" height="2225"/>
+  <rect class="fil5" x="21845" y="2550" width="3063" height="2225"/>
+  <rect class="fil3" transform="matrix(0.831879 -0.481824 -0.481824 -0.831879 21842.9 3508.61)" width="843" height="843"/>
+  <rect class="fil2" transform="matrix(0.865332 -0.5012 0.5012 0.865331 20844.6 1785.06)" width="810" height="1180"/>
+  <rect class="fil1" x="21845" y="4775" width="3063" height="590"/>
+  <rect class="fil1" x="2466" y="4775" width="604" height="1587"/>
+  <rect class="fil1" x="3563" y="4775" width="604" height="1587"/>
+  <rect class="fil2" transform="matrix(-0.00118645 0.999999 -0.999999 -0.00118564 6362.38 2552.05)" width="810" height="1180"/>
+  <rect class="fil3" transform="matrix(-0.00114059 0.961341 0.961341 0.00114059 4370.61 2549.68)" width="843" height="843"/>
+  <rect class="fil2" x="1785" y="324" width="3063" height="2225"/>
+  <rect class="fil4" x="4227" y="1425" width="191" height="335"/>
+  <rect class="fil4" x="3560" y="1425" width="191" height="335"/>
+  <rect class="fil5" x="1785" y="2550" width="3063" height="2225"/>
+  <polygon class="fil6" points="3271,2416 3589,1961 4227,1961 4227,2416 "/>
+  <rect class="fil3" transform="matrix(0.2501 -0.928239 0.928239 0.2501 3389.18 3688.73)" width="843" height="843"/>
+  <rect class="fil2" transform="matrix(0.260158 -0.965566 0.965566 0.260158 4172.97 3899.91)" width="810" height="1180"/>
+  <rect class="fil1" x="1785" y="4775" width="3063" height="590"/>
+  <circle class="fil3" cx="2012" cy="360" r="228"/>
+  <circle class="fil3" cx="2447" cy="360" r="228"/>
+  <circle class="fil3" cx="2882" cy="360" r="228"/>
+  <circle class="fil3" cx="3316" cy="360" r="228"/>
+  <circle class="fil3" cx="3751" cy="360" r="228"/>
+  <circle class="fil3" cx="4186" cy="360" r="228"/>
+  <circle class="fil3" cx="4620" cy="360" r="228"/>
+  <circle class="fil3" cx="1785" cy="552" r="228"/>
+  <circle class="fil3" cx="1785" cy="943" r="228"/>
+  <circle class="fil3" cx="1785" cy="1334" r="228"/>
+  <circle class="fil3" cx="1785" cy="1726" r="228"/>
+  <circle class="fil3" cx="2012" cy="1527" r="228"/>
+  <circle class="fil3" cx="2012" cy="1161" r="228"/>
+  <circle class="fil3" cx="2012" cy="795" r="228"/>
+  <circle class="fil3" cx="2227" cy="718" r="228"/>
+  <circle class="fil3" cx="2654" cy="588" r="228"/>
+  <circle class="fil3" cx="2240" cy="1057" r="228"/>
+  <circle class="fil3" cx="2468" cy="879" r="228"/>
+  <circle class="fil3" cx="15408" cy="360" r="228"/>
+  <circle class="fil3" cx="15842" cy="360" r="228"/>
+  <circle class="fil3" cx="16277" cy="360" r="228"/>
+  <circle class="fil3" cx="16711" cy="360" r="228"/>
+  <circle class="fil3" cx="17146" cy="360" r="228"/>
+  <circle class="fil3" cx="17581" cy="360" r="228"/>
+  <circle class="fil3" cx="18015" cy="360" r="228"/>
+  <circle class="fil3" cx="15180" cy="552" r="228"/>
+  <circle class="fil3" cx="15634" cy="481" r="228"/>
+  <circle class="fil3" cx="22100" cy="360" r="228"/>
+  <circle class="fil3" cx="22535" cy="360" r="228"/>
+  <circle class="fil3" cx="22970" cy="360" r="228"/>
+  <circle class="fil3" cx="23404" cy="360" r="228"/>
+  <circle class="fil3" cx="23839" cy="360" r="228"/>
+  <circle class="fil3" cx="24274" cy="360" r="228"/>
+  <circle class="fil3" cx="24708" cy="360" r="228"/>
+  <circle class="fil3" cx="17768" cy="552" r="228"/>
+  <circle class="fil3" cx="18154" cy="726" r="228"/>
+  <path class="fil3" d="M24943 360c-1022,-12 -2045,-24 -3068,-36 58,761 510,1505 1501,2226 845,-629 1403,-1348 1567,-2190z"/>
+  <circle class="fil3" cx="21923" cy="503" r="228"/>
+  <circle class="fil3" cx="21994" cy="888" r="228"/>
+  <circle class="fil3" cx="22153" cy="1248" r="228"/>
+  <circle class="fil3" cx="22377" cy="1597" r="228"/>
+  <circle class="fil3" cx="22633" cy="1903" r="228"/>
+  <circle class="fil3" cx="22942" cy="2202" r="228"/>
+  <circle class="fil3" cx="23376" cy="2432" r="228"/>
+  <circle class="fil3" cx="23722" cy="2273" r="228"/>
+  <circle class="fil3" cx="24109" cy="2045" r="228"/>
+  <circle class="fil3" cx="24287" cy="1699" r="228"/>
+  <circle class="fil3" cx="24613" cy="1425" r="228"/>
+  <circle class="fil3" cx="24734" cy="1064" r="228"/>
+  <circle class="fil3" cx="24832" cy="761" r="228"/>
+  <rect class="fil0" x="6687" width="6687" height="6687"/>
+  <rect class="fil1" x="10303" y="4775" width="604" height="1587"/>
+  <rect class="fil1" x="9206" y="4775" width="604" height="1587"/>
+  <rect class="fil2" transform="matrix(0.00118645 0.999999 0.999999 -0.00118564 7010.91 2552.05)" width="810" height="1180"/>
+  <rect class="fil3" transform="matrix(0.00114059 0.961341 -0.961341 0.00114059 9002.68 2549.68)" width="843" height="843"/>
+  <rect class="fil2" x="8525" y="324" width="3063" height="2225"/>
+  <rect class="fil4" x="8955" y="1425" width="191" height="335"/>
+  <rect class="fil4" x="9621" y="1425" width="191" height="335"/>
+  <rect class="fil5" x="8525" y="2550" width="3063" height="2225"/>
+  <polygon class="fil6" points="10103,2416 9785,1961 9146,1961 9146,2416 "/>
+  <rect class="fil3" transform="matrix(-0.2501 -0.928239 -0.928239 0.2501 9984.12 3688.73)" width="843" height="843"/>
+  <rect class="fil2" transform="matrix(-0.260158 -0.965566 -0.965566 0.260158 9200.32 3899.91)" width="810" height="1180"/>
+  <rect class="fil1" x="8525" y="4775" width="3063" height="590"/>
+  <circle class="fil3" cx="11361" cy="360" r="228"/>
+  <circle class="fil3" cx="10926" cy="360" r="228"/>
+  <circle class="fil3" cx="10492" cy="360" r="228"/>
+  <circle class="fil3" cx="10057" cy="360" r="228"/>
+  <circle class="fil3" cx="9622" cy="360" r="228"/>
+  <circle class="fil3" cx="9188" cy="360" r="228"/>
+  <circle class="fil3" cx="8753" cy="360" r="228"/>
+  <circle class="fil3" cx="11589" cy="552" r="228"/>
+  <circle class="fil3" cx="11589" cy="943" r="228"/>
+  <circle class="fil3" cx="11589" cy="1334" r="228"/>
+  <circle class="fil3" cx="11589" cy="1726" r="228"/>
+  <circle class="fil3" cx="11361" cy="1527" r="228"/>
+  <circle class="fil3" cx="11361" cy="1161" r="228"/>
+  <circle class="fil3" cx="11361" cy="795" r="228"/>
+  <circle class="fil3" cx="11146" cy="718" r="228"/>
+  <circle class="fil3" cx="10719" cy="588" r="228"/>
+  <circle class="fil3" cx="11133" cy="1057" r="228"/>
+  <circle class="fil3" cx="10905" cy="879" r="228"/>
+ </g>
+</svg>

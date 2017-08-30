@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after{
+  box-sizing:border-box;
+}
+html,body{
+	margin:0;
+	padding:0;
+  background-color: #263238;
+}
+body{
+	background-color:#f1f1f1;
+  text-align:center;
+}
+canvas{
+  cursor:pointer;
+}
+canvas:active{
+}
